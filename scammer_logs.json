@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-03-03T13:15:34.585Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+    "ipLocation": {
+      "city": "Unknown",
+      "region": "Unknown",
+      "country": "Unknown"
+    }
+  },
+  {
+    "timestamp": "2025-03-03T13:15:40.586Z",
+    "latitude": 28.622385994514303,
+    "longitude": 77.28106935535939
+  }
+]

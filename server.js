@@ -58,6 +58,7 @@ app.post("/save-selfie", (req, res) => {
   const { selfie } = req.body;
   const timestamp = new Date().toISOString();
   console.log("Received selfie at:", timestamp);
+  console.log("Selfie data:", selfie);
 
   const logs = JSON.parse(fs.readFileSync(LOG_FILE));
   logs.push({ timestamp, selfie });
